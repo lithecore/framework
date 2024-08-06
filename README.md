@@ -153,4 +153,4 @@ Lithe is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 
 If you have any questions or need support, get in touch:
 
-- **Instagram**: [@williamhumbwavali](https://instagram.com/williamhumbwavali)
+- **Instagram**: [@lithe.php](https://instagram.com/lithe.php)
