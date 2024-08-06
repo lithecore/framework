@@ -1,0 +1,32 @@
+{
+    "name": "lithecore/framework",
+    "description": "Lithe is a flexible and efficient PHP framework for creating robust web applications that adapt to developers' needs.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Humbwavali",
+            "homepage": "https://instagram.com/williamhumbwavali"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lithe\\": "Lithe/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "symfony/console": "^5.0",
+        "vlucas/phpdotenv": "^5.3",
+        "illuminate/hashing": "^11.13",
+        "illuminate/encryption": "^11.13",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "11.2",
+        "mockery/mockery": "^1.6"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
